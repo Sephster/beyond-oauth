@@ -225,7 +225,10 @@ section {
 
   .medium {
     width: 55%;
-    box-shadow: -5px 5px 5px #f5f5f5
+    box-shadow: -5px 5px 5px #f5f5f5;
+    position: absolute;
+    top: 20%;
+    left: 20%;
   }
 }
 
