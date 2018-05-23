@@ -173,3 +173,14 @@ section {
   position: absolute;
   top: 20%;
   left: 20%; }
+
+.reveal .example__link {
+  font-size: 6em;
+  color: black; }
+
+.reveal .end {
+  font-size: 5em;
+  display: flex !important;
+  justify-content: center !important;
+  flex-direction: column !important;
+  margin-top: 50px; }
